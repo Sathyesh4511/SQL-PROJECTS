@@ -1,0 +1,1 @@
+select count(pizza_id) AS Total_ordered_pizza from customer_orders
