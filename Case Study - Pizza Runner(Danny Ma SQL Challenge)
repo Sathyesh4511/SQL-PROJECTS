@@ -1,4 +1,4 @@
-# 1.)How many pizzas were ordered?
+ -- How many pizzas were ordered?
 select count(pizza_id) AS Total_ordered_pizza from customer_orders
   
 # 2.)How many unique customer orders were made?
